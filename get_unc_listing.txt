@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search xmlns="search:">
+    <Status>1</Status>
+    <Response>
+      <Store>
+        <Status>1</Status>
+        <Result>
+          <Properties>
+            <documentlibrary:LinkId>\\ex2016</documentlibrary:LinkId>
+            <documentlibrary:DisplayName>ex2016</documentlibrary:DisplayName>
+            <documentlibrary:IsFolder>1</documentlibrary:IsFolder>
+          </Properties>
+        </Result>
+        <Result>
+          <Properties>
+            <documentlibrary:LinkId>\\ex2016\address</documentlibrary:LinkId>
+            <documentlibrary:DisplayName>address</documentlibrary:DisplayName>
+            <documentlibrary:IsFolder>1</documentlibrary:IsFolder>
+            <documentlibrary:CreationDate>2021-06-22T02:31:53.330Z</documentlibrary:CreationDate>
+            <documentlibrary:LastModifiedDate>2021-06-22T02:36:47.472Z</documentlibrary:LastModifiedDate>
+            <documentlibrary:IsHidden>0</documentlibrary:IsHidden>
+          </Properties>
+        </Result>
+        <Range>0-1</Range>
+        <Total>2</Total>
+      </Store>
+    </Response>
+</Search>
