@@ -1,5 +1,6 @@
 # easBrowseSharefile
 Use to browse the share file by eas(Exchange Server ActiveSync)
+可用于极端条件下回显
 
 Reference:
 
